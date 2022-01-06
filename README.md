@@ -1,6 +1,7 @@
 # PyTorch Pocket Reference Code
 Code included in the book, PyTorch Pocket Reference
 
-![Book](https://raw.githubusercontent.com/joe-papa/pytorch-book/main/files/pytorch-book-cover.jpg)
-
-[Available on Amazon](http://pytorchbook.com)
+How to learn:  
+Open vscode with embedded terminal
+In vscode terminal open IPython with `python3 -m IPython --no-autoindent`
+Execute files in `py` directory per line (Shift+Enter)
